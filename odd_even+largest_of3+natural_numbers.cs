@@ -10,8 +10,8 @@ namespace oddoreven
     {
         static void Main(string[] args)
         {
-            //oddeven();
-            //largest();
+            oddeven();
+            largest();
             natural();
             Console.Read();
         }
