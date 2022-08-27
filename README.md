@@ -15,6 +15,6 @@ made 3 functions
   
 5.primenumber_within_range::::->
 print out all the prime numbers in a range from the user.
-
-
-
+6.split_and_join_with_list::::->
+by using split method spliting a string with '.' and converting it into a list of items,then again the list is converted to a string without '.' by join method in c#
+7.
