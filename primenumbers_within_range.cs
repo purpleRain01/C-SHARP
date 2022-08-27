@@ -10,7 +10,7 @@ namespace primenumber
     {
         static void Main(string[] args)
         {
-            //    checkprime();
+            checkprime();
             primrange();
         }
         public static void primrange()
