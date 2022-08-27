@@ -11,9 +11,9 @@ namespace _26_08class
     {
         static void Main(string[] args)
         {
-            //armstrong();
-            //fibonacci();
-            //forevaluate();
+            armstrong();
+            fibonacci();
+            forevaluate();
             foctorial();
 
             Console.ReadLine();
