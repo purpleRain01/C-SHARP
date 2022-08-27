@@ -26,4 +26,17 @@ printing fibonacci series upto a usr input.
 8.factorial_armstrong::::->
 finding factorial of a user input and second one is to check wheather the user gave a an armstrong number or not.
 
-9
+9.Rearranging_integer_array_max_min_order::::->
+two functions both are used to arrange an integer array as
+    {1,9,4,2,6,7}==>{9,1,7,2,6,4} as maximum and minimum sequence order.
+    first one uses two sorted arrays are on is ascending order and another on is descending order and picking index values alternatively.
+    second one use a single sorted array(ascending order) and set two index pointers of min and max and alternatively picking each to another array.
+    
+ 10.working_with_string::::->
+ as the name indicates some operations on strings..
+    1.individual()---->seperates the string into individual characters.
+    2.wordscount()---->gives the total number of words seperated by space " ".
+    3.integerremoval()---->removes all the integers from a input string.
+    4.concati()---->without a library function concatinating two strings from user.
+    
+11.
