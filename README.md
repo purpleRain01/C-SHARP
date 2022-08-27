@@ -39,4 +39,8 @@ two functions both are used to arrange an integer array as
     3.integerremoval()---->removes all the integers from a input string.
     4.concati()---->without a library function concatinating two strings from user.
     
-11.
+11.bubble_sort::::->
+sorting an array using bubble sort.
+
+12.insertion_sort::::->
+sorting of numbers in an array with insertion sort logic.
