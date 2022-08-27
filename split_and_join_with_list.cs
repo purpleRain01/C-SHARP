@@ -25,13 +25,9 @@ namespace first
             {
                 s = s + a;
                 s = s + ".";
-            }*/
-            Console.WriteLine(result);
-           // s = s.Remove(s.Length - 1, 1);
-           
-           
-
-           
+            }
+            s = s.Remove(s.Length - 1, 1);*/
+            Console.WriteLine(result);          
             Console.ReadKey();
         }
     }
