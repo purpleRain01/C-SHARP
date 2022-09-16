@@ -53,3 +53,7 @@ printing a pyramid pattern by entering the rows.
 
 15.matrixAddition
 performing matrix addition in c sharp.
+
+16.matrix_Multiplication
+performing matrix multiplication in c sharp
+
