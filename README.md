@@ -44,3 +44,9 @@ sorting an array using bubble sort.
 
 12.insertion_sort::::->
 sorting of numbers in an array with insertion sort logic.
+
+13.StringOperations
+playing with some strings interesting operations.
+
+14.pyramid pattern
+printing a pyramid pattern by entering the rows.
