@@ -50,3 +50,6 @@ playing with some strings interesting operations.
 
 14.pyramid pattern
 printing a pyramid pattern by entering the rows.
+
+15.matrixAddition
+performing matrix addition in c sharp.
